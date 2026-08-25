@@ -1,0 +1,5 @@
+[My Computer]
+My Computer="192.168.0.1"
+
+[NI-cRIO-9035-Rack3]
+NI-cRIO-9035-Rack3="localhost"

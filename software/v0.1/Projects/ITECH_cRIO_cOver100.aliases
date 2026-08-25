@@ -1,0 +1,8 @@
+[My Computer]
+My Computer = "192.168.0.1"
+
+[NI-cRIO-9035-01B68DCC]
+NI-cRIO-9035-01B68DCC = "192.168.0.241"
+
+[NI-cRIO-9035-Rack3]
+NI-cRIO-9035-Rack3 = "192.168.0.245"
